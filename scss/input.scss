@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+  $white:hsl(0, 0%, 100%);
+  $secondary: hsl(212, 45%, 89%);
+  $info:hsl(220, 15%, 55%);
+  $primary:hsl(218, 44%, 22%);
+$font-family-sans-serif:'Outfit', sans-serif;
+$headings-font-family:'Outfit', sans-serif;
+$card-border-radius:10px;
+
+
+.card-text{
+  font-size: 15px;
+  text-align: center;
+  color:hsl(220, 15%, 55%);
+}
+
+@import'../node_modules/bootstrap/scss/bootstrap.scss'
